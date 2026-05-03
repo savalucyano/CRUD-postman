@@ -1,1 +1,1 @@
-# CRUD.postman_collection
+# CRUD-postman
